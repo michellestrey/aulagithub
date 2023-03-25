@@ -1,2 +1,0 @@
-# aulagithub
-Teste iniciante git
